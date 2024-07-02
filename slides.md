@@ -1,6 +1,6 @@
 ---
 theme: default
-title: CI/CD に Profile-Guided Optimization (PGO) を組み込んだ話
+title: CI/CD に PGO を組み込んだ話
 author: Shota Iwamatsu
 download: true
 export:
