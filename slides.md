@@ -58,6 +58,12 @@ layout: two-cols
 
 
 ---
+layout: image
+image: /layerx_intro.svg
+---
+
+
+---
 
 ### 今日のトピック
 
@@ -286,7 +292,7 @@ export DD_APP_KEY=xxx
 go run github.com/DataDog/datadog-pgo@latest 'service:foo env:prod' ./cmd/foo/default.pgo
 
 # datadog-pgo により default.pgo が作成されているので、ビルド時に PGO が適用される。
-go build -o ./foo ./cmd/foo/...
+go build ./cmd/foo/...
 ```
 
 
