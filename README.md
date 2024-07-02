@@ -1,11 +1,3 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# 2024/07/04 layerx.go #1 の登壇資料
 
-To start the slide show:
-
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev on [documentations](https://sli.dev/).
+[CI/CD に PGO を組み込んだ話](https://shota-tech.github.io/layerx-go-1-slides/1)
