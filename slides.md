@@ -12,6 +12,7 @@ drawings:
 transition: slide-left
 highlighter: shiki
 mdc: true
+background: https://cdn.jsdelivr.net/gh/slidevjs/slidev-covers@main/static/gKmpcDQWPmY.webp
 favicon: /icon.jpg
 ---
 
