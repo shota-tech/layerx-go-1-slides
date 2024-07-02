@@ -12,6 +12,7 @@ drawings:
 transition: slide-left
 highlighter: shiki
 mdc: true
+favicon: /icon.jpg
 ---
 
 # CI/CD に PGO を組み込んだ話
