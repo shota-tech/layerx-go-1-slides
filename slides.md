@@ -120,7 +120,7 @@ func sum(a, b int) int {
 }
 ```
 
-```go {1-5}
+```go {1-6}
 func main() {
   a := 1
   b := 2
